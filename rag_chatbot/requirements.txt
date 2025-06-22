@@ -1,0 +1,8 @@
+groq
+sentence-transformers
+qdrant-client
+pymongo
+langchain
+llama_index
+streamlit
+python-dotenv
